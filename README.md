@@ -1,4 +1,4 @@
-## Avant Analytics Programming Challenge
+## Programming Challenge
 
 Your goal is to take the provided dataset `TitanicData.csv` and `TitanicData2.csv` and write a program **in R** that (1) reads the data from both CSVs, (2) merges the data sets together, and (3) munges that data such that you can (4) produce a glmnet model predicting the chance that a Titanic passanger survived.
 
